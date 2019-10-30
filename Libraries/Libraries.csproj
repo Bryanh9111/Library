@@ -61,7 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Dlls\Oracle.ManagedDataAccess.19.5.0.zip" />
+    <None Include="Dlls\Oracle.ManagedDataAccess.Core.2.19.50.zip" />
+    <None Include="Dlls\Oracle.ManagedDataAccess.EntityFramework.19.3.0.zip" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
