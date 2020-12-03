@@ -150,6 +150,10 @@
     <None Include="Dlls\itext7.7.1.10.zip" />
     <None Include="Dlls\itext7.pdfhtml.2.1.7.zip" />
     <None Include="Dlls\iTextSharp.5.5.13.1.zip" />
+    <None Include="Dlls\pylib\bs4-0.0.1.dist-info.zip" />
+    <None Include="Dlls\pylib\bs4.zip" />
+    <None Include="Dlls\pylib\requests-2.25.0.dist-info.zip" />
+    <None Include="Dlls\pylib\requests.zip" />
     <None Include="Dlls\Selenium.Chrome.WebDriver.79.0.0.zip" />
     <None Include="Dlls\Selenium.Chrome.WebDriver.79.0.0\.signature.p7s" />
     <None Include="Dlls\Selenium.Chrome.WebDriver.79.0.0\build\Selenium.Chrome.WebDriver.targets" />
