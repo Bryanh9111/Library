@@ -147,31 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Dlls\itext7.7.1.10.zip" />
-    <None Include="Dlls\itext7.pdfhtml.2.1.7.zip" />
-    <None Include="Dlls\iTextSharp.5.5.13.1.zip" />
-    <None Include="Dlls\pylib\bs4-0.0.1.dist-info.zip" />
-    <None Include="Dlls\pylib\bs4.zip" />
-    <None Include="Dlls\pylib\requests-2.25.0.dist-info.zip" />
-    <None Include="Dlls\pylib\requests.zip" />
-    <None Include="Dlls\Selenium.Chrome.WebDriver.79.0.0.zip" />
-    <None Include="Dlls\Selenium.Chrome.WebDriver.79.0.0\.signature.p7s" />
-    <None Include="Dlls\Selenium.Chrome.WebDriver.79.0.0\build\Selenium.Chrome.WebDriver.targets" />
-    <None Include="Dlls\Selenium.Chrome.WebDriver.79.0.0\driver\chromedriver.doc" />
-    <None Include="Dlls\Selenium.Chrome.WebDriver.79.0.0\Selenium.Chrome.WebDriver.79.0.0.nupkg" />
-    <None Include="Dlls\Selenium.Support.3.141.0.zip" />
-    <None Include="Dlls\Selenium.WebDriver.3.141.0.zip" />
-    <None Include="Dlls\Selenium.WebDriver.ChromeDriver.79.0.3945.3600.zip" />
-    <None Include="Dlls\Selenium.WebDriver.ChromeDriver.79.0.3945.3600\.signature.p7s" />
-    <None Include="Dlls\Selenium.WebDriver.ChromeDriver.79.0.3945.3600\build\Selenium.WebDriver.ChromeDriver.targets" />
-    <None Include="Dlls\Selenium.WebDriver.ChromeDriver.79.0.3945.3600\driver\win32\chromedriver.doc" />
-    <None Include="Dlls\Selenium.WebDriver.ChromeDriver.79.0.3945.3600\Selenium.WebDriver.ChromeDriver.79.0.3945.3600.nupkg" />
-    <None Include="Dlls\Selenium.WebDriver.IEDriver.3.150.1.zip" />
-    <None Include="Dlls\Selenium.WebDriver.IEDriver.3.150.1\.signature.p7s" />
-    <None Include="Dlls\Selenium.WebDriver.IEDriver.3.150.1\build\Selenium.WebDriver.IEDriver.targets" />
-    <None Include="Dlls\Selenium.WebDriver.IEDriver.3.150.1\driver\IEDriverServer.doc" />
-    <None Include="Dlls\Selenium.WebDriver.IEDriver.3.150.1\Selenium.WebDriver.IEDriver.3.150.1.nupkg" />
-    <None Include="Dlls\System.Linq.Dynamic.1.0.7.zip" />
+    <None Include="Dlls\pylib\New folder.zip" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
