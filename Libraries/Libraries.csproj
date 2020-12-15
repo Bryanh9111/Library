@@ -147,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Dlls\tensorflow.zip" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
