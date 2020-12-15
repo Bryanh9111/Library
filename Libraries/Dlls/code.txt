@@ -1,0 +1,22 @@
+# import requests
+# from bs4 import BeautifulSoup
+# from urllib.parse import quote
+# import csv
+#
+# headers = {
+#     'Cookie':'GeoIP=US:NY:Brooklyn:40.73:-73.94:v4; WMF-Last-Access=15-Dec-2020; WMF-Last-Access-Global=15-Dec-2020; enwikimwuser-sessionId=4402c56a8609322c586a',
+#     'referer':'',
+#     'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'
+# }
+#
+# url = 'https://en.wikipedia.org/wiki/QS_World_University_Rankings'
+# html = requests.get(url, headers = headers)
+# soup = BeautifulSoup(html.text, 'lxml')
+# tables = soup.findAll('table')
+# tab = tables[2]
+# for tr in tab.tbody.findAll('tr'):
+#     for td in tr.findAll('td'):
+#         text = td.getText()
+#         with open('qs.csv', 'a', encoding='utf8') as csvFile:
+#             spamwriter = csv.writer(csvFile, delimiter='|')
+#             spamwriter.writerow([text])
